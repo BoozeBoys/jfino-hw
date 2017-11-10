@@ -1,0 +1,5 @@
+[jfino-hw]
+name=jfino-hw
+hw_ver=1
+pcb_ver=A
+date=20171110

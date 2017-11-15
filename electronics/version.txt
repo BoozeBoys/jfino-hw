@@ -3,3 +3,9 @@ name=jfino-hw
 hw_ver=1
 pcb_ver=A
 date=20171110
+
+[jfino-anchor]
+name=jfino-anchor
+hw_ver=1
+pcb_ver=A
+date=20171110
